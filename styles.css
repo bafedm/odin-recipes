@@ -1,0 +1,54 @@
+/* styles.css*/
+
+body {
+    background-color: rgb(173, 238, 184);
+}
+
+ul {
+    font-family: cursive;
+    text-align: left;
+}
+
+ol {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.description-header,
+.ingredents-header,
+.steps-header {
+    font-family: monospace;
+    font-size: 40px;
+}
+
+.description-header {
+    color: lightsalmon;
+}
+
+.ingredents-header {
+    color: sandybrown;
+}
+
+.steps-header {
+    color: goldenrod;
+}
+
+.recipes-list {
+    font-size: 24px;
+    color: tomato;
+    background-color: violet;
+}
+
+.small-header {
+    text-align: center;
+    color: yellow;
+    background-color: orange;
+}
+
+.recipes-page {
+    text-align: center;
+    background-color: lightgray;
+}
